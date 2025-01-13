@@ -8,6 +8,6 @@
 
 📫 Reach me via email at emmanuelnwaegunwa@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/emmanuel-nwaegunwa/).
 
-Check out my [portfolio](https://maxzeno.vercel.app) to see some of my work!
+Check out my [portfolio](https://maxzeno.carrd.co) to see some of my work!
 
 Let's create something amazing together!
